@@ -54,3 +54,4 @@ Back up the entire `data` directory. `data/notes-db.json` is the live database, 
 
 All date, shift, and archive calculations are explicitly performed in `America/Chicago`, regardless of the server's operating-system timezone.
 # LOXComms
+# LOXdaily
